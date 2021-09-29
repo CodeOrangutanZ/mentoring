@@ -1,0 +1,56 @@
+#+TITLE: Interview Advice
+* How to stand out to an employer
+*** Do more than the average
+***** https://www.youtube.com/watch?v=ybLA79IdEdY De Wet Blomerus - What I learned from applying for 107 jobs
+******* _To get better than average results, put in better than average effort - De Wet Blomerus_
+******* Treat it like a sales problem
+******* Sales funnel
+*** Take responsibility for your own career development
+*** Code as a hobby
+*** Have something to show off
+***** Portfolios used to be popular
+***** Single cool thing to show off
+*** Be fluent with code when solving whiteboard problems
+***** Bring your own markers - fisken_ai
+***** Ask if you a laptop
+***** Ask if you can use a code editor
+***** Process
+******* Write out the inputs, walk through doing the problem, then write that algorithm
+******* Talk through the algorithm
+******* Then write the code
+***** Disccuss complexity
+******* Mention time and space
+***** Discuss multiple algorithms
+******* Simplest, brute force - slow, but obviously correct
+******* Discuss different approaches, optimizing for space vs time
+***** Interviewers will change the problem
+******* Fall back to simple but obviously correct, in order to proceed to new direction for better fit algorithm
+***** How to become fluent
+******* Practice red, green, refactor (TDD)
+******* Practice ping pong coding
+******* Practicing on LeetCode and binarysearch.com
+*** Do your homework on the company
+*** Learn constantly
+***** Course: Learning how to learn, Barbara Oakley and Terence Sejnowski
+******* Book: A Mind For Numbers
+***** MIT Open Course Ware
+******* Topics
+********* Discrete Mathematics
+********* Calculus
+********* Engineering Math
+*********** https://www.amazon.co.uk/Engineering-Mathematics-K-Stroud/dp/1403942463/
+************* Goes from the end of high school to the end of undergrad
+******* Video lectures as well as open textbooks
+***** Khan Academy
+******* Math from pre-high school
+***** Math Youtube
+******* 3Blue1Brown - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+********* Good for quick intuition
+***** Algorithms and Data Structures
+******* Pavel Mavrin - https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4
+******* Steven Skiena - https://www.youtube.com/watch?v=22hwcnXIGgk&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx 
+***** Association for Computing Machinery
+******* Code of Ethics - https://www.acm.org/code-of-ethics
+******* Learning center - https://learning.acm.org/about
+*** Connect to programmer communities
+***** Groups on Slack, Discord, Twitch
