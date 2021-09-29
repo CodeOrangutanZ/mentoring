@@ -4,7 +4,7 @@
 ***** https://www.youtube.com/watch?v=ybLA79IdEdY De Wet Blomerus - What I learned from applying for 107 jobs
 ******* _To get better than average results, put in better than average effort - De Wet Blomerus_
 ******* Treat it like a sales problem
-******* Sales funnel
+******* See: Sales funnel
 *** Take responsibility for your own career development
 *** Code as a hobby
 *** Have something to show off
@@ -18,6 +18,7 @@
 ******* Write out the inputs, walk through doing the problem, then write that algorithm
 ******* Talk through the algorithm
 ******* Then write the code
+******* Look for edge cases in your code after writing
 ***** Disccuss complexity
 ******* Mention time and space
 ***** Discuss multiple algorithms
@@ -33,6 +34,23 @@
 *** Learn constantly
 ***** Course: Learning how to learn, Barbara Oakley and Terence Sejnowski
 ******* Book: A Mind For Numbers
+******* Course is based on neuroscience
+******* Lots of learning material out there is incorrect
+********* Neuromyths
+*********** See: https://en.wikipedia.org/wiki/Educational_neuroscience#Neuromyths
+*********** Only use 10% of your brain
+*********** Learning styles (auditory, visual, kinesthetic)
+*********** Cone of experience, people remember:
+************* 10% of what they READ
+************* 20% of what they HEAR
+************* 30% of what they SEE
+************* ...
+************* 90% of what they DO
+********* Illusions of competence in learning
+*********** Rereading
+*********** Highlighting
+*********** Reading solutions
+*********** Just understanding
 ***** MIT Open Course Ware
 ******* Topics
 ********* Discrete Mathematics
@@ -53,7 +71,11 @@
 ******* The Structure and Interpretation of Computer Programs
 ********* Book: https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
 ********* Videos: https://www.youtube.com/playlist?list=PL8FE88AA54363BC46
+********* Lecture notes: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes/
+***** Competitive programming
+******* Links: https://github.com/lnishan/awesome-competitive-programming
 ***** Association for Computing Machinery
+******* Great resource for professional development
 ******* Code of Ethics - https://www.acm.org/code-of-ethics
 ******* Learning center - https://learning.acm.org/about
 *** Connect to programmer communities
